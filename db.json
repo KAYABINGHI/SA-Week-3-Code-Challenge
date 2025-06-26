@@ -1,0 +1,25 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Dub Through The Night",
+      "content": "As low as my eyes be I roll with the gangstas don't get foul with your mouth The wrong punchline'll have niggas inside of your house Nigga I'm doing good I made it out of the hood I own Beverly Hills no more bottles or wood.",
+      "author": "Green Lion Crew",
+      "image": "https://images.unsplash.com/photo-1486312338219-ce68d2c6f44d?w=300&h=200&fit=crop"
+    },
+    {
+      "id": 2,
+      "title": "Higher Meds",
+      "content": "When Marcus Garvey a shown like storm Tеnor Saw buss when him ring the alarm Bob Marley shot thе sherrif so him cyaah simmer down Nuh make nuh politician take unuh fi clown.",
+      "author": "Yaadcore",
+      "image": "https://images.unsplash.com/photo-1455390582262-044cdead277a?w=300&h=200&fit=crop"
+    },
+    {
+      "id": 3,
+      "title": "Born To Be A Star",
+      "content": "Does fame in this game have to change who you are? Or could I be the same one who came from a far-away life Just to make it in these Broadway lights?",
+      "author": "Stranjah Miller",
+      "image": "https://images.unsplash.com/photo-1432888622747-4eb9a8efeb07?w=300&h=200&fit=crop"
+    }
+  ]
+}
